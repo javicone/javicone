@@ -22,8 +22,7 @@
 - 🧠 Interesado en **Machine Learning**, **ciberseguridad** e **IoT**.
 - 🔬 En el TFG de Informática aplico ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en julio).
 - 🔬 En el TFG de Telemática estoy desarrollando un protocolo de red de área local en LoRa para aplicaciones IoT. (Pendiente por presentar en septiembre)
-- 🛠️ Experiencia construyendo sistemas full-stack seguros (ESP32, FastAPI, JWT/HTTPS/WSS).
-- 🌱 Aprendiendo desarrollo de IA con agentes y MLOps.
+- 🌱 Aprendiendo desarrollo de IA, agentes y MLOps.
 - 📫 Contáctame: javicon3@proton.me
 
 ---
