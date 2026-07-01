@@ -20,10 +20,11 @@
 
 - 📚 Terminando el doble grado en Ingeniería Informática y Telemática.
 - 🧠 Interesado en **Machine Learning**, **ciberseguridad** e **IoT**.
-- 🔬 TFG de informatica aplicando ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP).
+- 🔬 En el TFG de Informática aplico ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en Julio).
+- 🔬 TFG de Telemática aplicando ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en Julio).
 - 🛠️ Experiencia construyendo sistemas full-stack seguros (ESP32, FastAPI, JWT/HTTPS/WSS).
-- 🌱 Aprendiendo y aplicando prácticas de **MLOps**.
-- 📫 Contáctame: jaconejer@alumnos.unex.es
+- 🌱 Aprendiendo desarrollo de IA con agentes y MLOps.
+- 📫 Contáctame: javicon3@proton.me
 
 ---
 
@@ -44,11 +45,15 @@
 ---
 
 ### 📌 Proyectos destacados
-
+---
+- **[TFG - Predicción ML en trombectomía de ictus]** 🔒 *(repositorio disponible tras la defensa, julio 2026)* · Investigación de ML sobre datos clínicos reales: predicción de duración de procedimiento y grado de reperfusión TICI. Pipeline CRISP-DM con XGBoost, selección de variables por algoritmo genético, imputación MissForest, validación estadística (Friedman/Wilcoxon-Holm) y explicabilidad con SHAP. Python · scikit-learn · XGBoost.
 - **[Refer-IA — Asistente de arbitraje por voz con agente LLM](https://github.com/javicone/Refer-IA)** · Sistema agéntico que transcribe comandos de voz del árbitro (Whisper), los traduce a acciones de partido mediante un agente LLM con *function calling*, y los persiste solo tras confirmación humana (HITL). Guardrails deterministas con allow-list, event store idempotente en SQLite, WebSockets en tiempo real y 11 tests de consistencia. Python 3.13 · FastAPI · OpenRouter · asyncio.
 - **[Fantasy Fútbol Sala (FantasyCume)](https://github.com/javicone/fantasyCume)** · Aplicación web full-stack para gestionar una liga fantasy de fútbol sala universitario: alineaciones por jornada con presupuesto, puntuaciones automáticas, clasificaciones y recomendador de alineación con IA. Spring Boot · Spring Security (BCrypt) · JPA/Hibernate · MySQL · Thymeleaf · Docker.
 - **[Análisis de espectro RF con HackRF (LoRa EU868)](https://github.com/javicone/HackRF_sweep_setup)** · Captura y análisis de espectro radioeléctrico con HackRF One: reconstrucción waterfall tiempo-frecuencia, detección de ocupación de canales LoRa y cálculo de duty cycle contra el límite ETSI del 1%. Python (pandas/numpy/matplotlib) · PowerShell · SDR. Trabajo de campo del TFG de Telemática.
+### 🔧 Otros proyectos
+---
 - **[AERON — Simulador de concurrencia aeroportuaria](https://github.com/javicone/AERON_practica_PCD)** · Simulador multihilo de gestión de aeropuerto en Java: sincronización con semáforos y monitores, patrón productor-consumidor, análisis de speedup (5,11× con paralelismo real). Java · Concurrencia.
+-  **[RadioLag — Extensión Chrome de sincronización de audio](https://github.com/javicone/RadioLag-Chrome-Extension)** · Extensión Manifest V3 que reproduce radio en directo sincronizada con vídeo mediante delay ajustable (Web Audio API). Shadow DOM, resolución automática de streams y tests con Playwright. JavaScript.
 - **[Galería de Arte Generativa en Godot](https://github.com/javicone/galeriaFotos)** · Galería 3D explorable en primera persona (tipo museo virtual) que genera cuadros dinámicamente a partir de tus imágenes, con autoajuste de proporciones. Godot Engine 4.x + GDScript.
 - **[Clasificación de Diabetes (Kaggle)](https://github.com/javicone/diabetes_MachineLearning_Kaggle)** · Análisis predictivo binario con Regresión Logística y Random Forest, comparación de trade-offs Recall/Precisión en contextos médicos. Python · scikit-learn · SMOTE-ENN.
-- **[RadioLag — Extensión Chrome de sincronización de audio](https://github.com/javicone/RadioLag-Chrome-Extension)** · Extensión Manifest V3 que reproduce radio en directo sincronizada con vídeo mediante delay ajustable (Web Audio API, `DelayNode`). Shadow DOM, resolución automática de streams `.m3u` y tests con Playwright. JavaScript.
+
