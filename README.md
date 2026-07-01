@@ -21,7 +21,7 @@
 - 📚 Terminando el doble grado en Ingeniería Informática y Telemática.
 - 🧠 Interesado en **Machine Learning**, **ciberseguridad** e **IoT**.
 - 🔬 En el TFG de Informática aplico ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en Julio).
-- 🔬 TFG de Telemática aplicando ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en Julio).
+- 🔬 En el TFG de Telemática estoy desarrollando un protocolo de red de área local en LoRa para aplicaciones IoT.
 - 🛠️ Experiencia construyendo sistemas full-stack seguros (ESP32, FastAPI, JWT/HTTPS/WSS).
 - 🌱 Aprendiendo desarrollo de IA con agentes y MLOps.
 - 📫 Contáctame: javicon3@proton.me
