@@ -11,14 +11,14 @@
 <h1 align="center">¡Hola! Soy Javier Conejero 👋</h1>
 
 <p align="center">
-  Estudiante de <b>Doble Grado en Ingeniería Informática y Telemática</b> (Universidad de Extremadura)
+Ingeniero Informático y Telemático</b> (Universidad de Extremadura)
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 📚 Terminando el doble grado en Ingeniería Informática y Telemática.
+- 📚 Ingeniería Informática y Telemática.
 - 🧠 Interesado en **Machine Learning**, **ciberseguridad** e **IoT**.
 - 🔬 En el TFG de Informática aplico ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en julio).
 - 🔬 En el TFG de Telemática estoy desarrollando un protocolo de red de área local en LoRa para aplicaciones IoT. (Pendiente por presentar en septiembre)
