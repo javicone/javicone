@@ -11,7 +11,7 @@
 <h1 align="center">¡Hola! Soy Javier Conejero 👋</h1>
 
 <p align="center">
-Ingeniero Informático y Telemático</b> (Universidad de Extremadura)
+Ingeniero de Software FullStack / IoT / Data Science </b> (Universidad de Extremadura)
 </p>
 
 ---
