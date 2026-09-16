@@ -19,7 +19,7 @@ Ingeniero de Software FullStack / IoT / Data Science </b> (Universidad de Extrem
 ### 👨‍💻 Sobre mí
 
 - 📚 Ingeniería Informática y Telemática.
-- 🧠 Interesado en **Machine Learning**, **ciberseguridad** e **IoT**.
+- 🧠 Interesado en **desarrollo Full Stack**, **Machine Learning**, **ciberseguridad** e **IoT**.
 - 🔬 En el TFG de Informática aplico ML a datos clínicos de ictus: Predicción de métricas intraprocedimentales de Trombectomía Mecánica (XGBoost, algoritmos genéticos, SHAP). (Pendiente de presentar en julio).
 - 🔬 En el TFG de Telemática estoy desarrollando un protocolo de red de área local en LoRa para aplicaciones IoT. (Pendiente por presentar en septiembre)
 - 🌱 Aprendiendo desarrollo de IA, agentes y MLOps.
